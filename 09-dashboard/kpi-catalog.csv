@@ -1,0 +1,11 @@
+KPI ID,KPI Name,Domain,Definition,Formula,Frequency
+RE-KPI-001,Sales Value,Sales,Net value of qualifying active sales,Sum(net_contract_value),Daily
+RE-KPI-002,Units Sold,Sales,Count of qualifying sold units,Count(distinct unit_id),Daily
+RE-KPI-003,Reservation Conversion,Sales,Contracts generated from reservations,Contracts / Reservations,Weekly
+RE-KPI-004,Available Inventory Value,Inventory,List value of available units,Sum(list_price where status=Available),Daily
+RE-KPI-005,Collection %,Collections,Collection against due exposure,Collected to date / Due to date,Daily
+RE-KPI-006,Overdue Receivables,Collections,Past due unpaid amount,Sum(open overdue installments),Daily
+RE-KPI-007,Expected Cash 90D,Cash Flow,Expected inflow next 90 days,Sum(open amount expected next 90 days),Daily
+RE-KPI-008,Cancellation Rate,Sales,Cancelled contracts ratio,Cancelled / Signed Contracts,Monthly
+RE-KPI-009,Pending Commission,Commissions,Approved/eligible not paid commission,Sum(pending commission amount),Weekly
+RE-KPI-010,Inventory Aging 180+,Inventory,Available inventory older than 180 days,Count(available aged >180 days),Weekly

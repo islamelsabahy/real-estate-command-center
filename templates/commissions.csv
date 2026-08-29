@@ -1,0 +1,3 @@
+commission_id,contract_id,beneficiary_type,beneficiary_id,basis_amount,commission_rate,commission_amount,eligibility_status,approval_status,payment_status
+COM-001,CON-001,Salesperson,SAL-001,7500000,0.015,112500,Eligible,Approved,Unpaid
+COM-002,CON-001,Broker,BRK-001,7500000,0.04,300000,Eligible,Approved,Unpaid

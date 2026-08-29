@@ -1,0 +1,3 @@
+receipt_id,contract_id,customer_id,receipt_date,amount,payment_method,bank,status
+RCT-001,CON-001,CUS-002,2026-01-15,750000,Bank Transfer,Demo Bank,Posted
+RCT-002,CON-001,CUS-002,2026-04-18,500000,Cheque,Demo Bank,Posted

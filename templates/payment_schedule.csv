@@ -1,0 +1,5 @@
+installment_id,contract_id,due_date,amount_due,installment_type,status,expected_collection_date
+INS-001,CON-001,2026-01-15,750000,Down Payment,Paid,2026-01-15
+INS-002,CON-001,2026-04-15,500000,Quarterly,Paid,2026-04-18
+INS-003,CON-001,2026-07-15,500000,Quarterly,Overdue,2026-08-15
+INS-004,CON-001,2026-10-15,500000,Quarterly,Not Due,2026-10-15

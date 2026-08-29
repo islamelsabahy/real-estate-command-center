@@ -1,0 +1,2 @@
+contract_id,customer_id,unit_id,contract_date,gross_value,discount_value,net_contract_value,down_payment,status,salesperson_id,broker_id
+CON-001,CUS-002,UNT-002,2026-01-15,7600000,100000,7500000,750000,Active,SAL-001,BRK-001

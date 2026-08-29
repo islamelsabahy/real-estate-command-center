@@ -1,0 +1,16 @@
+# Environment
+.env
+.env.*
+secrets/
+
+# Real / confidential data
+data/private/
+exports/
+production-data/
+*.bak
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
