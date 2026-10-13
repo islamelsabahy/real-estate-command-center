@@ -174,5 +174,5 @@ Executive Reporting
 
 ## Author
 
-Eng. Islam El Sherbiny  
+Eng. Islam El-Sherbiny  
 IT Management · Real Estate Technology · ERP/Odoo · Digital Transformation · AI & Automation
